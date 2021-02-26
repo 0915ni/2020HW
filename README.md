@@ -1,6 +1,6 @@
 # 2020HW
 
-### 第一個code SOIT106_BASE_002：基礎題：找零錢 
+### 1.SOIT106_BASE_002：基礎題：找零錢 
 ```c
 #include <stdio.h>
 int main()
@@ -17,7 +17,7 @@ int main()
 }
 ```
 
-### 第二個code SOIT106_BASE_005：基礎題：因數個數
+### 2.SOIT106_BASE_005：基礎題：因數個數
 ```c
 #include <stdio.h>
 int main()
@@ -36,7 +36,7 @@ int main()
 }
 ```
 
-### 第三個code SOIT106_BASE_010：基礎題：找倍數
+### 3.SOIT106_BASE_010：基礎題：找倍數
 ```c
 #include <stdio.h>
 int main()
@@ -55,7 +55,7 @@ int main()
 }
 ```
 
-### 第四個code SOIT106_BASE_012：基礎題：整數轉換為等級
+### 4.SOIT106_BASE_012：基礎題：整數轉換為等級
 ```c
 #include <stdio.h>
 int main()
@@ -81,7 +81,7 @@ int main()
 }
 ```
 ## 老師要考
-### 第五個code SOIT106_ADVANCE_002：進階題：分式化簡 
+### 5.SOIT106_ADVANCE_002：進階題：分式化簡 
 ```c
 #include <stdio.h>
 int main()
@@ -108,14 +108,14 @@ int main()
 }
 ```
 
-### 第六個code
+### 6.
 ```c
 ```
 
-### 第七個code
+### 7.
 ```c
 ```
 
-### 第八個code
+### 8.
 ```c
 ```
