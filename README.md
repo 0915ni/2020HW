@@ -1,5 +1,6 @@
 # 2020HW
 20200226
+
 [1.SOIT106_BASE_002：基礎題：找零錢](https://github.com/0915ni/2020HW#1soit106_base_002%E5%9F%BA%E7%A4%8E%E9%A1%8C%E6%89%BE%E9%9B%B6%E9%8C%A2)
 
 [2.SOIT106_BASE_005：基礎題：因數個數](https://github.com/0915ni/2020HW#2soit106_base_005%E5%9F%BA%E7%A4%8E%E9%A1%8C%E5%9B%A0%E6%95%B8%E5%80%8B%E6%95%B8)
@@ -9,12 +10,14 @@
 [4.SOIT106_BASE_012：基礎題：整數轉換為等級](https://github.com/0915ni/2020HW#4soit106_base_012%E5%9F%BA%E7%A4%8E%E9%A1%8C%E6%95%B4%E6%95%B8%E8%BD%89%E6%8F%9B%E7%82%BA%E7%AD%89%E7%B4%9A)
 
 [5.SOIT106_ADVANCE_002：進階題：分式化簡](https://github.com/0915ni/2020HW#5soit106_advance_002%E9%80%B2%E9%9A%8E%E9%A1%8C%E5%88%86%E5%BC%8F%E5%8C%96%E7%B0%A1)
+
 20200305
-[6.]()
 
-[7.]()
+[6.SOIT106_ADVANCE_003：進階題：讀入整數反序列印]()
 
-[8.](https://github.com/0915ni/2020HW#8)
+[7.SOIT106_ADVANCE_005_C：進階題：A的B次方函數]()
+
+[8.SOIT106_ADVANCE_006：進階題：漸增數列相加](https://github.com/0915ni/2020HW#8)
 
 ### 1.SOIT106_BASE_002：基礎題：找零錢
 ```c
