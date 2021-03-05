@@ -1,4 +1,5 @@
 # 2020HW
+20200226
 [1.SOIT106_BASE_002：基礎題：找零錢](https://github.com/0915ni/2020HW#1soit106_base_002%E5%9F%BA%E7%A4%8E%E9%A1%8C%E6%89%BE%E9%9B%B6%E9%8C%A2)
 
 [2.SOIT106_BASE_005：基礎題：因數個數](https://github.com/0915ni/2020HW#2soit106_base_005%E5%9F%BA%E7%A4%8E%E9%A1%8C%E5%9B%A0%E6%95%B8%E5%80%8B%E6%95%B8)
@@ -8,7 +9,7 @@
 [4.SOIT106_BASE_012：基礎題：整數轉換為等級](https://github.com/0915ni/2020HW#4soit106_base_012%E5%9F%BA%E7%A4%8E%E9%A1%8C%E6%95%B4%E6%95%B8%E8%BD%89%E6%8F%9B%E7%82%BA%E7%AD%89%E7%B4%9A)
 
 [5.SOIT106_ADVANCE_002：進階題：分式化簡](https://github.com/0915ni/2020HW#5soit106_advance_002%E9%80%B2%E9%9A%8E%E9%A1%8C%E5%88%86%E5%BC%8F%E5%8C%96%E7%B0%A1)
-
+20200305
 [6.]()
 
 [7.]()
@@ -94,7 +95,7 @@ int main()
 	}
 }
 ```
-## 老師要考
+## 20200305老師要考
 ### 5.SOIT106_ADVANCE_002：進階題：分式化簡 
 ```c
 #include <stdio.h>
@@ -121,15 +122,62 @@ int main()
 	
 }
 ```
-
-### 6.
+## 20200312老師要考
+### 6.SOIT106_ADVANCE_003：進階題：讀入整數反序列印
 ```c
+#include <stdio.h>
+int a[1000];
+int main()
+{
+	int b;
+	for(int i=0; i<1000; i++)
+	{
+		scanf("%d",&a[i]);
+		b=i;
+		if(a[i]==0)break;
+	}
+	for(int i=b-1; i>=0;i--)
+	{
+		printf("%d ",a[i]);
+	} 
+	printf("\n");
+}
 ```
 
-### 7.
+### 7.SOIT106_ADVANCE_005_C：進階題：A的B次方函數
 ```c
+#include <stdio.h>
+int MYPOWER(int a, int b)
+{
+	int c=1;
+	for(int i=1; i<=b; i++)
+	{
+		c=c*a;
+	}
+	return c;
+}
+int main(void)
+{
+	int a,b;
+	scanf("%d%d",&a,&b);
+	printf("[%d]",MYPOWER(a,b));
+	return 0;
+}
+
 ```
 
-### 8.
+### 8.SOIT106_ADVANCE_006：進階題：漸增數列相加 
 ```c
+#include <stdio.h>
+int main()
+{
+	int a;
+	scanf("%d",&a);
+	int ans=0;
+	for(int i=1; i<=a; i++)
+	{
+		ans=ans+i*(i-1);
+	}
+	printf("%d\n",ans);
+}
 ```
