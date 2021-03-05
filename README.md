@@ -15,9 +15,9 @@
 
 [6.SOIT106_ADVANCE_003：進階題：讀入整數反序列印](https://github.com/0915ni/2020HW/blob/gh-page/README.md#6soit106_advance_003%E9%80%B2%E9%9A%8E%E9%A1%8C%E8%AE%80%E5%85%A5%E6%95%B4%E6%95%B8%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8D%B0)
 
-[7.SOIT106_ADVANCE_005_C：進階題：A的B次方函數]()
+[7.SOIT106_ADVANCE_005_C：進階題：A的B次方函數](https://github.com/0915ni/2020HW#7soit106_advance_005_c%E9%80%B2%E9%9A%8E%E9%A1%8Ca%E7%9A%84b%E6%AC%A1%E6%96%B9%E5%87%BD%E6%95%B8)
 
-[8.SOIT106_ADVANCE_006：進階題：漸增數列相加](https://github.com/0915ni/2020HW#8)
+[8.SOIT106_ADVANCE_006：進階題：漸增數列相加](https://github.com/0915ni/2020HW#8soit106_advance_006%E9%80%B2%E9%9A%8E%E9%A1%8C%E6%BC%B8%E5%A2%9E%E6%95%B8%E5%88%97%E7%9B%B8%E5%8A%A0)
 
 ### 1.SOIT106_BASE_002：基礎題：找零錢
 ```c
