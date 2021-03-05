@@ -13,7 +13,7 @@
 
 20200305
 
-[6.SOIT106_ADVANCE_003：進階題：讀入整數反序列印]()
+[6.SOIT106_ADVANCE_003：進階題：讀入整數反序列印](https://github.com/0915ni/2020HW/blob/gh-page/README.md#6soit106_advance_003%E9%80%B2%E9%9A%8E%E9%A1%8C%E8%AE%80%E5%85%A5%E6%95%B4%E6%95%B8%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8D%B0)
 
 [7.SOIT106_ADVANCE_005_C：進階題：A的B次方函數]()
 
